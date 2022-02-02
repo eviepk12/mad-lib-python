@@ -18,5 +18,3 @@ Habis itu dia dan {anggotaKeluarga} dia dan saudarinya bisa {katakerja} ke ayah 
 menguasai dunia dengan {emosi}"
 
     print(madlib)
-
-madlib()
