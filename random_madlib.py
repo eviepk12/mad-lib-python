@@ -1,3 +1,6 @@
+# SImple madlib game in python 
+# made by enal
+
 from sample_madlibs import hewan, komputer_ajaib, zeus_olympia, zombie
 import random
 
